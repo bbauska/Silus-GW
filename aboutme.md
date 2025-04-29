@@ -4,12 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Brian Bauska. I am a data wrangler by profession.  I have the following qualities:
+My name is Silus Ultra. I am a gamer &amp; YouTuber.  I have the following qualities:
 
-- I rock a baseball cap
-- I drive a ford and bmw
-- I write websites.  188 and counting as of today 8/6/2023
-- I'm extremely loyal to my family, particularly my grandbabies
+- I rock a black jacket
+- I am analytics
+- I work with my Grandpa on website. 400 and counting as of today 4/29/2025
+- I'm extremely loyal to my two sisters, Kyah and Hayden
 
 What else do you need?
 
